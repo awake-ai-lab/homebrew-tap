@@ -1,6 +1,6 @@
 cask "ework-odyssey" do
-  version "1.7.3"
-  sha256 "32841f11893496db86caedf06f60f676f54ada0ff970b5665ef0cf63fcfb939c"
+  version "1.7.4"
+  sha256 "918629d9bb7c03fcdea5ed51fd28a7a2e4feede4c55ede41003e483947c30caf"
 
   url "https://updates.evanarts.com/releases/v#{version}/sherlock-mac-arm64.dmg"
   name "EWork Odyssey"
